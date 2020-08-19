@@ -1,2 +1,4 @@
 # UNIWA-01
-This folder contains week one homework and class files for activities as we go along.
+This folder contains Week One work:
+  Homework activities
+  Files for activities as we go along
