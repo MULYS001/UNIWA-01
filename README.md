@@ -4,7 +4,7 @@
 
 ### Overview
 
-#####The requirement for this weeks homework is to refactor the provided code, in order to provide a webpage that meets good coding standards standards, as follows:
+The requirement for this weeks homework is to refactor the provided code, in order to provide a webpage that meets good coding standards standards, as follows:
 
 * Provide accessibility with Alt attributes
 * Semantic HTML elements
