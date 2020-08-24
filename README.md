@@ -18,4 +18,5 @@ The requirement for this weeks homework is to refactor the provided code, in ord
 * Format Document - Shift + Alt +F
 * Added Alt Text for all Images
 * Added descriptions for all website sections describing contents
+* Added symantic html protocols
 * Changed Website title to "Horiseon Social Solution Services"
